@@ -1,0 +1,67 @@
+/* styles/EnhancedProductionTracking.module.css */
+
+.container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .heading {
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .subHeading {
+    margin-bottom: 1rem;
+    color: #555;
+  }
+  
+  .card {
+    margin-bottom: 2rem;
+  }
+  
+  .cardContent {
+    padding: 1rem;
+  }
+  
+  .chartContainer {
+    height: 300px;
+    width: 100%;
+  }
+  
+  .typographyBody {
+    margin-top: 1rem;
+    color: #666;
+  }
+  
+  .sectionTitle {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #444;
+  }
+  .upr{
+    margin: 30px 30px;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .lft{
+    cursor: pointer;
+    background-color: #fff;
+    color: rgba(0, 0, 0, 0.87);
+    -webkit-transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+    width: 300px;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .lft:hover{
+    background-color: rgb(228, 246, 240);
+  }
+  .lft h2{
+    color: black;
+  }

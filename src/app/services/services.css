@@ -1,0 +1,55 @@
+
+.ser-container{
+    display: flex;
+    flex-direction: column;   
+    background-color: black;
+    color: white;
+}
+.head{
+    font-size: 60px;
+    position: relative;
+    
+}
+
+.head::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 6%; /* Position the line in the middle */
+    transform: translateX(-50%); /* Center the line */
+    width: 10%; /* Adjust the width of the line */
+    height: 2px; /* Line thickness */
+    background-color: blue; /* Line color */
+}
+.card{
+    margin-top: 40px ;
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.sub-card{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 45vw; /* Adjust the width as needed */
+    padding: 10px;
+    /* border: 1px solid #ccc; */
+    background-color: rgb(56, 42, 42);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+.hea{
+    position: relative;
+}
+.hea::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 6%; /* Position the line in the middle */
+    transform: translateX(-50%); /* Center the line */
+    width: 10%; /* Adjust the width of the line */
+    height: 2px; /* Line thickness */
+    background-color: blue; /* Line color */
+}

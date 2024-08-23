@@ -1,0 +1,85 @@
+
+.main-demo{
+   
+    background-color: black;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin: 40px 0px;
+}
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    transition: transform 0.3s;
+}
+.form-container:hover {
+    transform: scale(1.05);
+}
+.form-container h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+    letter-spacing: 1.5px;
+}
+.form-container input, .form-container textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: background 0.3s;
+}
+.form-container input:focus, .form-container textarea:focus {
+    background: rgba(255, 255, 255, 0.4);
+    outline: none;
+}
+.form-container textarea {
+    resize: none;
+}
+.form-container button {
+    padding: 15px 30px;
+    background: linear-gradient(45deg, #6b00b6, #440074);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.3s;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.form-container button:hover {
+    background: linear-gradient(45deg, #440074, #6b00b6);
+    transform: scale(1.1);
+}
+.form-container button:active {
+    transform: scale(1.05);
+}
+.input100{
+    width: 530px;
+    padding: 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    transition: background 0.3s;
+}
+.input100::focus{
+    background: rgba(255, 255, 255, 0.4);
+    outline: none;
+} 

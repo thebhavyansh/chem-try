@@ -1,0 +1,32 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #f4f4f4; */
+    /* min-height: 100vh; */
+    padding: 20px 0;
+    position: relative;
+  }
+  
+  .news-cards-container {
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .scroll-button {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+    z-index: 1;
+    margin: 0 20px;
+    font-size: 24px;
+  }
+  
+  .scroll-button:disabled {
+    background-color: rgba(0,0,0,0.2);
+    cursor: not-allowed;
+  }

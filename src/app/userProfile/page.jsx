@@ -2,7 +2,7 @@
 import Image from "next/image";
 import React, { useState } from "react";
 import "./user.css";
-import profile from "@/assets/profile.png";
+import profile from "../../assets/profile.png";
 import Link from "next/link";
 function UserProfile() {
   const [activeComponent, setActiveComponent] = useState("profile");

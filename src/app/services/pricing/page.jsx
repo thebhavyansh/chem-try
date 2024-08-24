@@ -18,8 +18,8 @@ import {
 } from 'chart.js';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import Header from '@/app/_components/Header';
-import Footer from '@/app/_components/Footer';
+import Header from '../../_components/Header';
+import Footer from '../../_components/Footer';
 import Link from 'next/link';
 ChartJS.register(
   CategoryScale,
@@ -46,9 +46,18 @@ const CategoryPage = () => {
     setSelected(true);
     setSelectedCategory(event.target.value);
   };
-
-  const handleProductChange = (event) => {
-    setSelectedProduct(event.target.value);
+  const handleProductChange = async (event) => {
+    const product = event.target.value;
+    setSelectedProduct(product);
+    if(product){
+      const response = await fetch('/api/pricing',{
+        method:'POST',
+        headers:{
+          'content-type':'application/json',
+        },
+        body:JSON.stringify({ product })
+      })
+    }
   };
 
   const handleRegionChange = (event) => {

@@ -2,13 +2,13 @@ import Image from "next/image";
 import styles from "./page.module.css";
 import Header from "./_components/Header";
 import Link from "next/link";
-import chemlive from "@/assets/chemlive.ai.png";
-import chemai from "@/assets/chemai.png";
+import chemlive from "../assets/chemlive.ai.png";
+import chemai from "../assets/chemai.png";
 import News from "./_components/News";
-import services from "@/assets/FORECASTING.png";
+import services from "../assets/FORECASTING.png";
 import Footer from "./_components/Footer";
 import DataTable from "./_components/DataTable";
-import earth from "@/assets/earth.png";
+import earth from "../assets/earth.png";
 export default function Home() {
   return (
     <main className={styles.main}>

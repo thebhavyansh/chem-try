@@ -17,6 +17,7 @@ function News() {
           console.error("Error fetching news:", error);
           setNews([]); // Ensure news is an array even if there is an error
         });
+        console.log(news)
     }, []);
   
     const handleNext = () => {

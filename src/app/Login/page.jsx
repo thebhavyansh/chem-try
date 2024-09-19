@@ -1,61 +1,83 @@
-import Image from 'next/image'
-import React from 'react'
-import logo from "@/assets/logo.png";
-import './signup.css'
-import Link from 'next/link';
-const Login = () => {
+"use client"
+import Image from "next/image";
+import React, { useEffect, useState } from "react";
+import logo from "../../assets/logo.png";
+import { useRouter } from "next/navigation";
+import styles from './Login.module.css'
+import Link from "next/link";
+import axios from "axios";
+function Login() {
+    const router = useRouter();
+  const [user, setUser] = React.useState({
+    email: "",
+    password: "",
+  });
+  const [buttonDisabled, setButtonDisabled] = React.useState(false);
+  const [loading, setLoading] = React.useState(false);
+
+  const onLogin = async () => {
+    try {
+      setLoading(true);
+      const response = await axios.post("/api/Users/login", user);
+      console.log("Login success", response);
+      console.log(response.data);
+      if(response.data.success){
+      router.push(`/`);
+      }
+    } catch (error) {
+      console.log("Login failed", error.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+  useEffect(() => {
+    if (user.email.length > 0 && user.password.length > 0) {
+      setButtonDisabled(false);
+    } else {
+      setButtonDisabled(true);
+    }
+  }, [user]);
+
   return (
-    <>
-    <div className="limiter">
-<div className="container-login100">
-<div className="wrap-login100">
-<div className="login100-pic js-tilt" data-tilt>
-<Image src={logo} />
-</div>
-<form className="login100-form validate-form">
-<span className="login100-form-title">
-Member Login
-</span>
-<div className="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
-<input className="input100" type="text" name="email" placeholder="Email" />
-<span className="focus-input100"></span>
-<span className="symbol-input100">
-<i className="fa fa-envelope" aria-hidden="true"></i>
-</span>
-</div>
-<div className="wrap-input100 validate-input" data-validate="Password is required">
-<input className="input100" type="password" name="pass" placeholder="Password" />
-<span className="focus-input100"></span>
-<span className="symbol-input100">
-<i className="fa fa-lock" aria-hidden="true"></i>
-</span>
-</div>
-<div className="container-login100-form-btn">
-<button className="login100-form-btn">
-Login
-</button>
-</div>
-<div className="text-center p-t-12">
-<span className="txt1">
-Forgot
-</span>
-<Link className="txt2" href="#">
-Username / Password?
-</Link>
-</div>
-<div className="text-center p-t-136">
-<Link className="txt2" href="/Signup">
-Create your Account
-<i className="fa fa-long-arrow-right m-l-5" aria-hidden="true"></i>
-</Link>
-</div>
-</form>
-</div>
-</div>
-</div>
-
-
-    </>
+    <div className={styles.container}>
+        <div className={styles.box}>
+            <div className={styles.left}><Image src={logo} width={380} height={330}/></div>
+            <div className={styles.right}>
+                <div className={styles.rht}>
+                <input
+                  className={styles.input100}
+                  id="email"
+                  type="text"
+                  value={user.email}
+                  onChange={(e) => setUser({ ...user, email: e.target.value })}
+                  placeholder="Your Email"
+                />
+                <input
+                  className={styles.input100}
+                  id="password"
+                  type="password"
+                  value={user.password}
+                  onChange={(e) =>
+                    setUser({ ...user, password: e.target.value })
+                  }
+                  placeholder="Password"
+                />
+                
+                </div>
+                <div className={styles.dn}>
+                  <div className={styles.upr}><button className={styles.login100_form_btn} onClick={onLogin}>
+                  Login
+                </button></div>
+                  <div className={styles.dnr}>
+                  <Link className={styles.txt2} href="/signup">
+                  Create your Account
+                  
+                </Link>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
   )
 }
 

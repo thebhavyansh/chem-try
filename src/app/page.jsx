@@ -1,3 +1,4 @@
+"use client"
 import Image from "next/image";
 import styles from "./page.module.css";
 import Header from "./_components/Header";
@@ -9,11 +10,15 @@ import services from "../assets/FORECASTING.png";
 import Footer from "./_components/Footer";
 import DataTable from "./_components/DataTable";
 import earth from "../assets/earth.png";
+import NextNProgress from 'nextjs-progressbar';
+import { useEffect } from "react";
 export default function Home() {
+
   return (
     <main className={styles.main}>
+      <NextNProgress />
       <div className={styles.container_main}>
-        <Header />
+        <Header/>
         <div className={styles.banner}>
           <h1 className={styles.heading}>Stay Informed, Stay Relevant</h1>
           <p>

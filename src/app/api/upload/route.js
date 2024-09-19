@@ -4,7 +4,6 @@ import fs from "fs";
 
 const prisma = new PrismaClient();
 
-
 export async function POST(request) {
 
   try {

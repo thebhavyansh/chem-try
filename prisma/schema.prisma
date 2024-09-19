@@ -17,6 +17,12 @@ model User {
   name       String @db.VarChar(191)
   email      String @db.VarChar(191) @unique
   password   String
+  city       String @db.VarChar(20)
+  address    String 
+  type       String @db.VarChar(30)
+  profession String @db.VarChar(20)
+  services   Json?
+  phoneNumber Int?
   created_at DateTime @default(now())
 }
 
@@ -35,4 +41,6 @@ model Mothly_pricing{
   Min                Int
   Max                Int
   Country_id         Int
+  Region             String?  @db.VarChar(30)
+  Grade              String?  @db.VarChar(30)
 }

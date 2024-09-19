@@ -1,0 +1,1012 @@
+[
+  {
+    "country": "India",
+    "ManufacturingAnnualValue": 450861.88,
+    "PercOfWorldManufacturing": 2.865958337945988
+  },
+  {
+    "country": "China",
+    "ManufacturingAnnualValue": 4975614.26,
+    "PercOfWorldManufacturing": 31.628096779550212
+  },
+  {
+    "country": "United States",
+    "ManufacturingAnnualValue": 2497131.58,
+    "PercOfWorldManufacturing": 15.873320389493205
+  },
+  {
+    "country": "Indonesia",
+    "ManufacturingAnnualValue": 241872.73,
+    "PercOfWorldManufacturing": 1.5374934054421692
+  },
+  {
+    "country": "Pakistan",
+    "ManufacturingAnnualValue": 49804.94,
+    "PercOfWorldManufacturing": 0.31659115439943525
+  },
+  {
+    "country": "Nigeria",
+    "ManufacturingAnnualValue": 64893.55,
+    "PercOfWorldManufacturing": 0.41250373773319415
+  },
+  {
+    "country": "Brazil",
+    "ManufacturingAnnualValue": 213557.35,
+    "PercOfWorldManufacturing": 1.357503251022574
+  },
+  {
+    "country": "Bangladesh",
+    "ManufacturingAnnualValue": 100161.92,
+    "PercOfWorldManufacturing": 0.6366914181537792
+  },
+  {
+    "country": "Russia",
+    "ManufacturingAnnualValue": 287712.82,
+    "PercOfWorldManufacturing": 1.828881508928972
+  },
+  {
+    "country": "Ethiopia",
+    "ManufacturingAnnualValue": 5376.51,
+    "PercOfWorldManufacturing": 0.03417643927570453
+  },
+  {
+    "country": "Mexico",
+    "ManufacturingAnnualValue": 265673.11,
+    "PercOfWorldManufacturing": 1.688783413608934
+  },
+  {
+    "country": "Japan",
+    "ManufacturingAnnualValue": 1025092.19,
+    "PercOfWorldManufacturing": 6.516123095378595
+  },
+  {
+    "country": "Egypt",
+    "ManufacturingAnnualValue": 76139.15,
+    "PercOfWorldManufacturing": 0.483987760922747
+  },
+  {
+    "country": "Philippines",
+    "ManufacturingAnnualValue": 69696.37,
+    "PercOfWorldManufacturing": 0.44303344679765033
+  },
+  {
+    "country": "DR Congo",
+    "ManufacturingAnnualValue": 9716.06,
+    "PercOfWorldManufacturing": 0.061761316279352545
+  },
+  {
+    "country": "Vietnam",
+    "ManufacturingAnnualValue": 101216.66,
+    "PercOfWorldManufacturing": 0.6433960011568158
+  },
+  {
+    "country": "Iran",
+    "ManufacturingAnnualValue": 76182.75,
+    "PercOfWorldManufacturing": 0.48426490962188845
+  },
+  {
+    "country": "Turkey",
+    "ManufacturingAnnualValue": 199891.23,
+    "PercOfWorldManufacturing": 1.2706328982631647
+  },
+  {
+    "country": "Germany",
+    "ManufacturingAnnualValue": 751338.62,
+    "PercOfWorldManufacturing": 4.775975255681035
+  },
+  {
+    "country": "Thailand",
+    "ManufacturingAnnualValue": 133849.21,
+    "PercOfWorldManufacturing": 0.8508287713899952
+  },
+  {
+    "country": "United Kingdom",
+    "ManufacturingAnnualValue": 259333.85,
+    "PercOfWorldManufacturing": 1.648487136945652
+  },
+  {
+    "country": "Tanzania",
+    "ManufacturingAnnualValue": 6198.45,
+    "PercOfWorldManufacturing": 0.03940120078424308
+  },
+  {
+    "country": "France",
+    "ManufacturingAnnualValue": 259409.05,
+    "PercOfWorldManufacturing": 1.6489651548854554
+  },
+  {
+    "country": "South Africa",
+    "ManufacturingAnnualValue": 48883.36,
+    "PercOfWorldManufacturing": 0.3107330191206571
+  },
+  {
+    "country": "Italy",
+    "ManufacturingAnnualValue": 283940.03,
+    "PercOfWorldManufacturing": 1.804899310749301
+  },
+  {
+    "country": "Kenya",
+    "ManufacturingAnnualValue": 8876.95,
+    "PercOfWorldManufacturing": 0.056427411578973234
+  },
+  {
+    "country": "Myanmar",
+    "ManufacturingAnnualValue": 17009.78,
+    "PercOfWorldManufacturing": 0.10812473393764606
+  },
+  {
+    "country": "Colombia",
+    "ManufacturingAnnualValue": 39591.91,
+    "PercOfWorldManufacturing": 0.25167078791337855
+  },
+  {
+    "country": "South Korea",
+    "ManufacturingAnnualValue": 426772.41,
+    "PercOfWorldManufacturing": 2.7128306940582414
+  },
+  {
+    "country": "Sudan",
+    "ManufacturingAnnualValue": 2994.25,
+    "PercOfWorldManufacturing": 0.019033314045966306
+  },
+  {
+    "country": "Uganda",
+    "ManufacturingAnnualValue": 7460.22,
+    "PercOfWorldManufacturing": 0.04742179514469357
+  },
+  {
+    "country": "Spain",
+    "ManufacturingAnnualValue": 162701.28,
+    "PercOfWorldManufacturing": 1.034230461023861
+  },
+  {
+    "country": "Algeria",
+    "ManufacturingAnnualValue": 43396.66,
+    "PercOfWorldManufacturing": 0.27585614371746653
+  },
+  {
+    "country": "Iraq",
+    "ManufacturingAnnualValue": 4725.92,
+    "PercOfWorldManufacturing": 0.030040884868034756
+  },
+  {
+    "country": "Argentina",
+    "ManufacturingAnnualValue": 97371.32,
+    "PercOfWorldManufacturing": 0.6189526300844217
+  },
+  {
+    "country": "Afghanistan",
+    "ManufacturingAnnualValue": 1321.34,
+    "PercOfWorldManufacturing": 0.008399258305584743
+  },
+  {
+    "country": "Yemen",
+    "ManufacturingAnnualValue": 2835.58,
+    "PercOfWorldManufacturing": 0.018024708906223975
+  },
+  {
+    "country": "Canada",
+    "ManufacturingAnnualValue": 162160.14,
+    "PercOfWorldManufacturing": 1.030790638843738
+  },
+  {
+    "country": "Poland",
+    "ManufacturingAnnualValue": 121771.07,
+    "PercOfWorldManufacturing": 0.7740526065035805
+  },
+  {
+    "country": "Morocco",
+    "ManufacturingAnnualValue": 21637,
+    "PercOfWorldManufacturing": 0.1375382202596887
+  },
+  {
+    "country": "Angola",
+    "ManufacturingAnnualValue": 7933.57,
+    "PercOfWorldManufacturing": 0.050430701950624324
+  },
+  {
+    "country": "Ukraine",
+    "ManufacturingAnnualValue": 12160.92,
+    "PercOfWorldManufacturing": 0.07730236601749103
+  },
+  {
+    "country": "Uzbekistan",
+    "ManufacturingAnnualValue": 15390.92,
+    "PercOfWorldManufacturing": 0.09783425359149826
+  },
+  {
+    "country": "Malaysia",
+    "ManufacturingAnnualValue": 95306.91,
+    "PercOfWorldManufacturing": 0.6058299570111535
+  },
+  {
+    "country": "Mozambique",
+    "ManufacturingAnnualValue": 1231.65,
+    "PercOfWorldManufacturing": 0.007829132919667496
+  },
+  {
+    "country": "Ghana",
+    "ManufacturingAnnualValue": 7412.56,
+    "PercOfWorldManufacturing": 0.04711883856210002
+  },
+  {
+    "country": "Peru",
+    "ManufacturingAnnualValue": 26031.08,
+    "PercOfWorldManufacturing": 0.1654697238359097
+  },
+  {
+    "country": "Saudi Arabia",
+    "ManufacturingAnnualValue": 162680.62,
+    "PercOfWorldManufacturing": 1.034099133222846
+  },
+  {
+    "country": "Madagascar",
+    "ManufacturingAnnualValue": 1382.22,
+    "PercOfWorldManufacturing": 0.00878624942493631
+  },
+  {
+    "country": "Ivory Coast",
+    "ManufacturingAnnualValue": 7686.08,
+    "PercOfWorldManufacturing": 0.04885750168570449
+  },
+  {
+    "country": "Nepal",
+    "ManufacturingAnnualValue": 1983.8,
+    "PercOfWorldManufacturing": 0.012610265810933607
+  },
+  {
+    "country": "Cameroon",
+    "ManufacturingAnnualValue": 5739.21,
+    "PercOfWorldManufacturing": 0.03648198590824089
+  },
+  {
+    "country": "Venezuela",
+    "ManufacturingAnnualValue": 58236.96,
+    "PercOfWorldManufacturing": 0.3701903143566428
+  },
+  {
+    "country": "Niger",
+    "ManufacturingAnnualValue": 1139.42,
+    "PercOfWorldManufacturing": 0.0072428617150388
+  },
+  {
+    "country": "Australia",
+    "ManufacturingAnnualValue": 90831.23,
+    "PercOfWorldManufacturing": 0.5773797531172734
+  },
+  {
+    "country": "Mali",
+    "ManufacturingAnnualValue": 1212.79,
+    "PercOfWorldManufacturing": 0.00770924703742422
+  },
+  {
+    "country": "Burkina Faso",
+    "ManufacturingAnnualValue": 1827.05,
+    "PercOfWorldManufacturing": 0.011613865384547962
+  },
+  {
+    "country": "Sri Lanka",
+    "ManufacturingAnnualValue": 14578.98,
+    "PercOfWorldManufacturing": 0.09267305829835913
+  },
+  {
+    "country": "Malawi",
+    "ManufacturingAnnualValue": 1272.1,
+    "PercOfWorldManufacturing": 0.00808625826095808
+  },
+  {
+    "country": "Zambia",
+    "ManufacturingAnnualValue": 2406.42,
+    "PercOfWorldManufacturing": 0.015296701206143185
+  },
+  {
+    "country": "Kazakhstan",
+    "ManufacturingAnnualValue": 29105.93,
+    "PercOfWorldManufacturing": 0.18501538157799516
+  },
+  {
+    "country": "Chad",
+    "ManufacturingAnnualValue": 341.98,
+    "PercOfWorldManufacturing": 0.002173837434228791
+  },
+  {
+    "country": "Chile",
+    "ManufacturingAnnualValue": 29317.97,
+    "PercOfWorldManufacturing": 0.1863632396093241
+  },
+  {
+    "country": "Romania",
+    "ManufacturingAnnualValue": 57744.94,
+    "PercOfWorldManufacturing": 0.36706272942656143
+  },
+  {
+    "country": "Somalia",
+    "ManufacturingAnnualValue": 40.6,
+    "PercOfWorldManufacturing": 0.000258078834521577
+  },
+  {
+    "country": "Senegal",
+    "ManufacturingAnnualValue": 4181.43,
+    "PercOfWorldManufacturing": 0.026579768005752652
+  },
+  {
+    "country": "Guatemala",
+    "ManufacturingAnnualValue": 13399.21,
+    "PercOfWorldManufacturing": 0.08517370690418373
+  },
+  {
+    "country": "Netherlands",
+    "ManufacturingAnnualValue": 108636.71,
+    "PercOfWorldManufacturing": 0.69056245081425
+  },
+  {
+    "country": "Ecuador",
+    "ManufacturingAnnualValue": 18809.02,
+    "PercOfWorldManufacturing": 0.11956182167716829
+  },
+  {
+    "country": "Cambodia",
+    "ManufacturingAnnualValue": 5416.7,
+    "PercOfWorldManufacturing": 0.03443191189539473
+  },
+  {
+    "country": "Zimbabwe",
+    "ManufacturingAnnualValue": 3530.21,
+    "PercOfWorldManufacturing": 0.022440208926512717
+  },
+  {
+    "country": "Guinea",
+    "ManufacturingAnnualValue": 2427.75,
+    "PercOfWorldManufacturing": 0.015432287943590112
+  },
+  {
+    "country": "Benin",
+    "ManufacturingAnnualValue": 1709.41,
+    "PercOfWorldManufacturing": 0.010866072426589383
+  },
+  {
+    "country": "Rwanda",
+    "ManufacturingAnnualValue": 1318.88,
+    "PercOfWorldManufacturing": 0.00838362101659649
+  },
+  {
+    "country": "Burundi",
+    "ManufacturingAnnualValue": 247.57,
+    "PercOfWorldManufacturing": 0.001573708794643025
+  },
+  {
+    "country": "Bolivia",
+    "ManufacturingAnnualValue": 4334.3,
+    "PercOfWorldManufacturing": 0.02755150474056333
+  },
+  {
+    "country": "Tunisia",
+    "ManufacturingAnnualValue": 6731.05,
+    "PercOfWorldManufacturing": 0.04278673741641529
+  },
+  {
+    "country": "South Sudan",
+    "ManufacturingAnnualValue": 424.04,
+    "PercOfWorldManufacturing": 0.0026954617977962936
+  },
+  {
+    "country": "Haiti",
+    "ManufacturingAnnualValue": 4684.39,
+    "PercOfWorldManufacturing": 0.029776894375481037
+  },
+  {
+    "country": "Belgium",
+    "ManufacturingAnnualValue": 72945.1,
+    "PercOfWorldManufacturing": 0.4636843938931007
+  },
+  {
+    "country": "Jordan",
+    "ManufacturingAnnualValue": 8260.03,
+    "PercOfWorldManufacturing": 0.052505884618553246
+  },
+  {
+    "country": "Dominican Republic",
+    "ManufacturingAnnualValue": 16950.01,
+    "PercOfWorldManufacturing": 0.10774479866820381
+  },
+  {
+    "country": "United Arab Emirates",
+    "ManufacturingAnnualValue": 43030.58,
+    "PercOfWorldManufacturing": 0.27352911170412514
+  },
+  {
+    "country": "Cuba",
+    "ManufacturingAnnualValue": 12020,
+    "PercOfWorldManufacturing": 0.07640659091008264
+  },
+  {
+    "country": "Honduras",
+    "ManufacturingAnnualValue": 5079.28,
+    "PercOfWorldManufacturing": 0.03228706065538807
+  },
+  {
+    "country": "Czech Republic",
+    "ManufacturingAnnualValue": 61625.77,
+    "PercOfWorldManufacturing": 0.391731696997408
+  },
+  {
+    "country": "Sweden",
+    "ManufacturingAnnualValue": 73832.36,
+    "PercOfWorldManufacturing": 0.4693243699206281
+  },
+  {
+    "country": "Tajikistan",
+    "ManufacturingAnnualValue": 1340.57,
+    "PercOfWorldManufacturing": 0.008521496137797794
+  },
+  {
+    "country": "Papua New Guinea",
+    "ManufacturingAnnualValue": 401.9,
+    "PercOfWorldManufacturing": 0.0025547261969020144
+  },
+  {
+    "country": "Portugal",
+    "ManufacturingAnnualValue": 31289.71,
+    "PercOfWorldManufacturing": 0.19889684456448603
+  },
+  {
+    "country": "Azerbaijan",
+    "ManufacturingAnnualValue": 3940.65,
+    "PercOfWorldManufacturing": 0.025049220671365825
+  },
+  {
+    "country": "Greece",
+    "ManufacturingAnnualValue": 19291.38,
+    "PercOfWorldManufacturing": 0.12262800164317389
+  },
+  {
+    "country": "Hungary",
+    "ManufacturingAnnualValue": 30718.36,
+    "PercOfWorldManufacturing": 0.19526498884764115
+  },
+  {
+    "country": "Togo",
+    "ManufacturingAnnualValue": 1153.73,
+    "PercOfWorldManufacturing": 0.007333824969275346
+  },
+  {
+    "country": "Israel",
+    "ManufacturingAnnualValue": 49657.76,
+    "PercOfWorldManufacturing": 0.3156555868411869
+  },
+  {
+    "country": "Austria",
+    "ManufacturingAnnualValue": 73316.92,
+    "PercOfWorldManufacturing": 0.4660479129140812
+  },
+  {
+    "country": "Belarus",
+    "ManufacturingAnnualValue": 17481.55,
+    "PercOfWorldManufacturing": 0.11112359728154371
+  },
+  {
+    "country": "Switzerland",
+    "ManufacturingAnnualValue": 143931.98,
+    "PercOfWorldManufacturing": 0.9149211243542595
+  },
+  {
+    "country": "Sierra Leone",
+    "ManufacturingAnnualValue": 79.79,
+    "PercOfWorldManufacturing": 0.0005071948326718383
+  },
+  {
+    "country": "Laos",
+    "ManufacturingAnnualValue": 1362.15,
+    "PercOfWorldManufacturing": 0.008658672030629706
+  },
+  {
+    "country": "Turkmenistan",
+    "ManufacturingAnnualValue": 1398.89,
+    "PercOfWorldManufacturing": 0.008892214306007116
+  },
+  {
+    "country": "Hong Kong",
+    "ManufacturingAnnualValue": 3367.34,
+    "PercOfWorldManufacturing": 0.021404905976302638
+  },
+  {
+    "country": "Libya",
+    "ManufacturingAnnualValue": 2017.45,
+    "PercOfWorldManufacturing": 0.012824166125752599
+  },
+  {
+    "country": "Kyrgyzstan",
+    "ManufacturingAnnualValue": 1355.44,
+    "PercOfWorldManufacturing": 0.008616019100096708
+  },
+  {
+    "country": "Paraguay",
+    "ManufacturingAnnualValue": 8094.05,
+    "PercOfWorldManufacturing": 0.05145081257535395
+  },
+  {
+    "country": "Nicaragua",
+    "ManufacturingAnnualValue": 2174.45,
+    "PercOfWorldManufacturing": 0.013822155707523227
+  },
+  {
+    "country": "Serbia",
+    "ManufacturingAnnualValue": 8202.09,
+    "PercOfWorldManufacturing": 0.052137581966529095
+  },
+  {
+    "country": "El Salvador",
+    "ManufacturingAnnualValue": 5040.19,
+    "PercOfWorldManufacturing": 0.0320385803193918
+  },
+  {
+    "country": "Republic of the Congo",
+    "ManufacturingAnnualValue": 1027.56,
+    "PercOfWorldManufacturing": 0.0065318100295810744
+  },
+  {
+    "country": "Denmark",
+    "ManufacturingAnnualValue": 43253.34,
+    "PercOfWorldManufacturing": 0.2749451127183622
+  },
+  {
+    "country": "Singapore",
+    "ManufacturingAnnualValue": 95695.79,
+    "PercOfWorldManufacturing": 0.6083019199956055
+  },
+  {
+    "country": "Lebanon",
+    "ManufacturingAnnualValue": 330.05,
+    "PercOfWorldManufacturing": 0.002098002939257303
+  },
+  {
+    "country": "Finland",
+    "ManufacturingAnnualValue": 44508.15,
+    "PercOfWorldManufacturing": 0.2829214649928947
+  },
+  {
+    "country": "Liberia",
+    "ManufacturingAnnualValue": 54.6,
+    "PercOfWorldManufacturing": 0.0003470715360807415
+  },
+  {
+    "country": "Norway",
+    "ManufacturingAnnualValue": 27612.59,
+    "PercOfWorldManufacturing": 0.17552278436754068
+  },
+  {
+    "country": "Palestine",
+    "ManufacturingAnnualValue": 1715.8,
+    "PercOfWorldManufacturing": 0.0109066912382296
+  },
+  {
+    "country": "Central African Republic",
+    "ManufacturingAnnualValue": 393.36,
+    "PercOfWorldManufacturing": 0.0025004406489509243
+  },
+  {
+    "country": "Oman",
+    "ManufacturingAnnualValue": 12035.63,
+    "PercOfWorldManufacturing": 0.07650594490475192
+  },
+  {
+    "country": "Ireland",
+    "ManufacturingAnnualValue": 198761.97,
+    "PercOfWorldManufacturing": 1.2634546198229717
+  },
+  {
+    "country": "New Zealand",
+    "ManufacturingAnnualValue": 20136.72,
+    "PercOfWorldManufacturing": 0.12800150809574706
+  },
+  {
+    "country": "Mauritania",
+    "ManufacturingAnnualValue": 528.3,
+    "PercOfWorldManufacturing": 0.0033582031595504706
+  },
+  {
+    "country": "Costa Rica",
+    "ManufacturingAnnualValue": 9802.06,
+    "PercOfWorldManufacturing": 0.06230798573178742
+  },
+  {
+    "country": "Kuwait",
+    "ManufacturingAnnualValue": 7000.88,
+    "PercOfWorldManufacturing": 0.044501944606537384
+  },
+  {
+    "country": "Panama",
+    "ManufacturingAnnualValue": 3801.92,
+    "PercOfWorldManufacturing": 0.024167366565129904
+  },
+  {
+    "country": "Croatia",
+    "ManufacturingAnnualValue": 7871.78,
+    "PercOfWorldManufacturing": 0.050037926305671415
+  },
+  {
+    "country": "Georgia",
+    "ManufacturingAnnualValue": 2381.41,
+    "PercOfWorldManufacturing": 0.015137722101429276
+  },
+  {
+    "country": "Eritrea",
+    "ManufacturingAnnualValue": 101.98,
+    "PercOfWorldManufacturing": 0.0006482482646431139
+  },
+  {
+    "country": "Mongolia",
+    "ManufacturingAnnualValue": 1202.24,
+    "PercOfWorldManufacturing": 0.007642184680177851
+  },
+  {
+    "country": "Uruguay",
+    "ManufacturingAnnualValue": 7372.3,
+    "PercOfWorldManufacturing": 0.046862920978902024
+  },
+  {
+    "country": "Puerto Rico",
+    "ManufacturingAnnualValue": 48796.4,
+    "PercOfWorldManufacturing": 0.31018024731154387
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "ManufacturingAnnualValue": 3654.22,
+    "PercOfWorldManufacturing": 0.023228493563680716
+  },
+  {
+    "country": "Qatar",
+    "ManufacturingAnnualValue": 22047.9,
+    "PercOfWorldManufacturing": 0.1401501560504502
+  },
+  {
+    "country": "Moldova",
+    "ManufacturingAnnualValue": 1298.52,
+    "PercOfWorldManufacturing": 0.008254200202043304
+  },
+  {
+    "country": "Namibia",
+    "ManufacturingAnnualValue": 1408.44,
+    "PercOfWorldManufacturing": 0.008952920041713545
+  },
+  {
+    "country": "Armenia",
+    "ManufacturingAnnualValue": 2282.93,
+    "PercOfWorldManufacturing": 0.014511722012175956
+  },
+  {
+    "country": "Lithuania",
+    "ManufacturingAnnualValue": 11988.36,
+    "PercOfWorldManufacturing": 0.07620546740455894
+  },
+  {
+    "country": "Jamaica",
+    "ManufacturingAnnualValue": 1454.07,
+    "PercOfWorldManufacturing": 0.009242972682581022
+  },
+  {
+    "country": "Albania",
+    "ManufacturingAnnualValue": 1236.5,
+    "PercOfWorldManufacturing": 0.007859962534136206
+  },
+  {
+    "country": "Gambia",
+    "ManufacturingAnnualValue": 38.91,
+    "PercOfWorldManufacturing": 0.0002473361441190778
+  },
+  {
+    "country": "Gabon",
+    "ManufacturingAnnualValue": 4872.7,
+    "PercOfWorldManufacturing": 0.030973909777667195
+  },
+  {
+    "country": "Botswana",
+    "ManufacturingAnnualValue": 1094.31,
+    "PercOfWorldManufacturing": 0.006956114517372091
+  },
+  {
+    "country": "Lesotho",
+    "ManufacturingAnnualValue": 380.41,
+    "PercOfWorldManufacturing": 0.0024181224000086976
+  },
+  {
+    "country": "Guinea-Bissau",
+    "ManufacturingAnnualValue": 137.07,
+    "PercOfWorldManufacturing": 0.0008713021144796196
+  },
+  {
+    "country": "Slovenia",
+    "ManufacturingAnnualValue": 11894.84,
+    "PercOfWorldManufacturing": 0.07561099615814372
+  },
+  {
+    "country": "Equatorial Guinea",
+    "ManufacturingAnnualValue": 2698.58,
+    "PercOfWorldManufacturing": 0.017153851755252147
+  },
+  {
+    "country": "Latvia",
+    "ManufacturingAnnualValue": 5189.77,
+    "PercOfWorldManufacturing": 0.032989403769336074
+  },
+  {
+    "country": "North Macedonia",
+    "ManufacturingAnnualValue": 1776.94,
+    "PercOfWorldManufacturing": 0.011295335079181554
+  },
+  {
+    "country": "Bahrain",
+    "ManufacturingAnnualValue": 7819,
+    "PercOfWorldManufacturing": 0.04970242382079336
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "ManufacturingAnnualValue": 4764.96,
+    "PercOfWorldManufacturing": 0.03028904737295403
+  },
+  {
+    "country": "Timor-Leste",
+    "ManufacturingAnnualValue": 27.31,
+    "PercOfWorldManufacturing": 0.00017359933425577012
+  },
+  {
+    "country": "Estonia",
+    "ManufacturingAnnualValue": 4862.2,
+    "PercOfWorldManufacturing": 0.030907165251497826
+  },
+  {
+    "country": "Cyprus",
+    "ManufacturingAnnualValue": 1627.35,
+    "PercOfWorldManufacturing": 0.010344448063021879
+  },
+  {
+    "country": "Mauritius",
+    "ManufacturingAnnualValue": 1559.34,
+    "PercOfWorldManufacturing": 0.009912134232090539
+  },
+  {
+    "country": "Eswatini",
+    "ManufacturingAnnualValue": 1264.68,
+    "PercOfWorldManufacturing": 0.008039092129131726
+  },
+  {
+    "country": "Djibouti",
+    "ManufacturingAnnualValue": 140.95,
+    "PercOfWorldManufacturing": 0.0008959658060545882
+  },
+  {
+    "country": "Fiji",
+    "ManufacturingAnnualValue": 529.04,
+    "PercOfWorldManufacturing": 0.0033629070594900267
+  },
+  {
+    "country": "Guyana",
+    "ManufacturingAnnualValue": 252.1,
+    "PercOfWorldManufacturing": 0.0016025042902189546
+  },
+  {
+    "country": "Solomon Islands",
+    "ManufacturingAnnualValue": 148.72,
+    "PercOfWorldManufacturing": 0.0009453567554199245
+  },
+  {
+    "country": "Bhutan",
+    "ManufacturingAnnualValue": 148.77,
+    "PercOfWorldManufacturing": 0.0009456745864969215
+  },
+  {
+    "country": "Macau",
+    "ManufacturingAnnualValue": 256.45,
+    "PercOfWorldManufacturing": 0.0016301555939176949
+  },
+  {
+    "country": "Luxembourg",
+    "ManufacturingAnnualValue": 3687.49,
+    "PercOfWorldManufacturing": 0.02343997836231453
+  },
+  {
+    "country": "Montenegro",
+    "ManufacturingAnnualValue": 225.84,
+    "PercOfWorldManufacturing": 0.001435579408580122
+  },
+  {
+    "country": "Suriname",
+    "ManufacturingAnnualValue": 674.88,
+    "PercOfWorldManufacturing": 0.004289956744874923
+  },
+  {
+    "country": "Malta",
+    "ManufacturingAnnualValue": 1244.59,
+    "PercOfWorldManufacturing": 0.007911387602394323
+  },
+  {
+    "country": "Maldives",
+    "ManufacturingAnnualValue": 104.73,
+    "PercOfWorldManufacturing": 0.0006657289738779497
+  },
+  {
+    "country": "Cape Verde",
+    "ManufacturingAnnualValue": 107.89,
+    "PercOfWorldManufacturing": 0.0006858158979441612
+  },
+  {
+    "country": "Brunei",
+    "ManufacturingAnnualValue": 3690.58,
+    "PercOfWorldManufacturing": 0.023459620322872948
+  },
+  {
+    "country": "Belize",
+    "ManufacturingAnnualValue": 169.62,
+    "PercOfWorldManufacturing": 0.0010782101456046772
+  },
+  {
+    "country": "Bahamas",
+    "ManufacturingAnnualValue": 126.6,
+    "PercOfWorldManufacturing": 0.0008047482869564445
+  },
+  {
+    "country": "Iceland",
+    "ManufacturingAnnualValue": 2908.62,
+    "PercOfWorldManufacturing": 0.018488996543501213
+  },
+  {
+    "country": "Vanuatu",
+    "ManufacturingAnnualValue": 25.4,
+    "PercOfWorldManufacturing": 0.00016145818711448413
+  },
+  {
+    "country": "New Caledonia",
+    "ManufacturingAnnualValue": 514.07,
+    "PercOfWorldManufacturing": 0.0032677484350371205
+  },
+  {
+    "country": "Barbados",
+    "ManufacturingAnnualValue": 244.95,
+    "PercOfWorldManufacturing": 0.0015570544462083814
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "ManufacturingAnnualValue": 28.7,
+    "PercOfWorldManufacturing": 0.0001824350381962872
+  },
+  {
+    "country": "Samoa",
+    "ManufacturingAnnualValue": 40.96,
+    "PercOfWorldManufacturing": 0.0002603672182759555
+  },
+  {
+    "country": "Curacao",
+    "ManufacturingAnnualValue": 105.06,
+    "PercOfWorldManufacturing": 0.00066782665898613
+  },
+  {
+    "country": "Saint Lucia",
+    "ManufacturingAnnualValue": 61.48,
+    "PercOfWorldManufacturing": 0.0003908050922755309
+  },
+  {
+    "country": "Kiribati",
+    "ManufacturingAnnualValue": 7.88,
+    "PercOfWorldManufacturing": 0.00005009017773472972
+  },
+  {
+    "country": "Seychelles",
+    "ManufacturingAnnualValue": 92.31,
+    "PercOfWorldManufacturing": 0.000586779734351891
+  },
+  {
+    "country": "Grenada",
+    "ManufacturingAnnualValue": 39.87,
+    "PercOfWorldManufacturing": 0.00025343850079742055
+  },
+  {
+    "country": "Micronesia",
+    "ManufacturingAnnualValue": 2.1,
+    "PercOfWorldManufacturing": 0.000013348905233874673
+  },
+  {
+    "country": "Aruba",
+    "ManufacturingAnnualValue": 100.22,
+    "PercOfWorldManufacturing": 0.0006370606107328189
+  },
+  {
+    "country": "Tonga",
+    "ManufacturingAnnualValue": 24.35,
+    "PercOfWorldManufacturing": 0.00015478373449754682
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "ManufacturingAnnualValue": 35.4,
+    "PercOfWorldManufacturing": 0.0002250244025138873
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "ManufacturingAnnualValue": 32.24,
+    "PercOfWorldManufacturing": 0.00020493747844767596
+  },
+  {
+    "country": "Isle of Man",
+    "ManufacturingAnnualValue": 163.23,
+    "PercOfWorldManufacturing": 0.0010375913339644586
+  },
+  {
+    "country": "Andorra",
+    "ManufacturingAnnualValue": 107.94,
+    "PercOfWorldManufacturing": 0.0006861337290211581
+  },
+  {
+    "country": "Cayman Islands",
+    "ManufacturingAnnualValue": 60.79,
+    "PercOfWorldManufacturing": 0.00038641902341297207
+  },
+  {
+    "country": "Dominica",
+    "ManufacturingAnnualValue": 17.48,
+    "PercOfWorldManufacturing": 0.00011111374451815679
+  },
+  {
+    "country": "Bermuda",
+    "ManufacturingAnnualValue": 25.24,
+    "PercOfWorldManufacturing": 0.00016044112766809367
+  },
+  {
+    "country": "Greenland",
+    "ManufacturingAnnualValue": 105.76,
+    "PercOfWorldManufacturing": 0.0006722762940640883
+  },
+  {
+    "country": "Faroe Islands",
+    "ManufacturingAnnualValue": 261.04,
+    "PercOfWorldManufacturing": 0.0016593324867860211
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "ManufacturingAnnualValue": 31.22,
+    "PercOfWorldManufacturing": 0.0001984537244769368
+  },
+  {
+    "country": "American Samoa",
+    "ManufacturingAnnualValue": 109,
+    "PercOfWorldManufacturing": 0.0006928717478534949
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "ManufacturingAnnualValue": 6.2,
+    "PercOfWorldManufacturing": 0.000039411053547629986
+  },
+  {
+    "country": "Sint Maarten",
+    "ManufacturingAnnualValue": 7.77,
+    "PercOfWorldManufacturing": 0.00004939094936533628
+  },
+  {
+    "country": "Liechtenstein",
+    "ManufacturingAnnualValue": 2199.63,
+    "PercOfWorldManufacturing": 0.013982215437898928
+  },
+  {
+    "country": "Marshall Islands",
+    "ManufacturingAnnualValue": 5.45,
+    "PercOfWorldManufacturing": 0.00003464358739267475
+  },
+  {
+    "country": "San Marino",
+    "ManufacturingAnnualValue": 608.08,
+    "PercOfWorldManufacturing": 0.0038653344260069097
+  },
+  {
+    "country": "Palau",
+    "ManufacturingAnnualValue": 2.4,
+    "PercOfWorldManufacturing": 0.000015255891695856768
+  },
+  {
+    "country": "Tuvalu",
+    "ManufacturingAnnualValue": 0.4,
+    "PercOfWorldManufacturing": 0.0000025426486159761283
+  },
+  {
+    "country": "Total",
+    "ManufacturingAnnualValue": null,
+    "PercOfWorldManufacturing": 100.00000000000003
+  }
+]
